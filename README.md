@@ -3,6 +3,7 @@
 ## Usage
 - Ye download the repository
 - Navigate to the folder in a terminal me matey
+- Run `pip install -r requirements.txt`
 - Run `py -m parrthon example.parr`, or create ye own Parrthon file. Savvy?
 
 ## Guide for ye scallywag
