@@ -1,0 +1,13 @@
+chantey("You can do math in parrthon... Calculating 2.8 * 10 ^ 3")
+a = 2.3 * 10 ^ 3
+chantey(a)
+
+
+z = "This was a variable"
+
+chantey(z + ", and this was not")
+
+chantey("You can make loops")
+
+FOR YE x = 5 TO 11 chantey(x) AVAST YE
+
